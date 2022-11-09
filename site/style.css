@@ -6,13 +6,13 @@
     background-color: #ffabab;
     width: 30%;
     height: 150px;
-    margin-right: auto;
-    margin-left: auto;
     margin-top: 20px;
     font-family: Helvetica;
     color: white;
     float: left;
     position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .row {
     width: 100%;
@@ -29,7 +29,6 @@ p {
     right: 0px;
     top: 0px;
     margin-top: 0px;
-
 }
 #h1{
     background-color: #ff193b;
@@ -40,19 +39,4 @@ p {
 #h3{
     background-color: #ffffff;
     color: black;
-
-}
-#block1{
-    margin-left: 10px;
-    margin-right: 10px;
-}
-#block2{
-    margin-left: 10px;
-    margin-right: 10px;
-
-}
-#block3{
-    margin-left: 10px;
-    margin-right: 10px;
-
 }
